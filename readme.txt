@@ -24,7 +24,7 @@ Dataframe Explanations:
     'opposite_percent' = percentage of hit balls that went to the opposite side of the batter
 
 'pitching' contains data for pitchers, with some N/A values for pitches they don't throw
-    'p_era' = earned run average; how many runs does the pitcher give up per 9 innings (per complete game)
+    'p_era' = earned run average; how many runs does the pitcher give up per 9 innings (per complete game); this value does not penalize the pitcher for any errors committed by the defense
 
 The dataframes for specific types of pitches only contain columns relevant to that pitch, with no N/A values (only pitchers that throw this pitch)
     'n_(type)_formatted' = Percentage of pitches thrown by this pitcher that were of this type
