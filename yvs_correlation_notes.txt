@@ -1,1 +1,1 @@
-#there is a slightly positive correlation between year and salary; it seems that as time went on, baseball players have enjoyed higher salaries
+there is a slightly positive correlation between year and salary; it seems that as time went on, baseball players have enjoyed higher salaries
