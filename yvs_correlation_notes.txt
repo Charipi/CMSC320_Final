@@ -1,1 +1,3 @@
+graph is a scatterplot; each dot is a player's salary (in 10s of millions of $) from a particular year
+
 there is a slightly positive correlation between year and salary; it seems that as time went on, baseball players have enjoyed higher salaries
